@@ -42,3 +42,7 @@ This tool is just a wrapper for the following two awesome windows programs
 
 - [mkcert](https://mkcert.dev)
 - [ssl-proxy](https://github.com/suyashkumar/ssl-proxy)
+
+## Contributing
+
+If you want you can add support for more platforms or localize this README file. When you are done just open a pull request!
